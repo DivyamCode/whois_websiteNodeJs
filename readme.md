@@ -1,6 +1,6 @@
-# CF Default App Node
+# App Node
 
-The default Node.js app that will be pushed into the Swisscom Application Cloud if no source code is provided.
+ Node.js app that will be pushed into the Swisscom Application Cloud if no source code is provided.
 
 Based on [Express](http://expressjs.com/).
 
